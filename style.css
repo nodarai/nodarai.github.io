@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'mononoki';
+    src: url('https://github.com/madmalik/mononoki/tree/master/export/webfont/mononoki-Regular.woff') format('woff'); /* Pretty Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+    background: #fdf6e3;
+    height: 100%;
+    min-height: 100%;
+}
+
+a {
+    color: #586e75;
+    text-decoration: none;
+}
+
+table {
+    text-align: left;
+    table-layout: fixed;
+    font-size: 20px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-collapse:separate;
+    border-spacing:0 10px;
+}
+
+table tr td {
+    color: #839496;
+}
+
+table tr td:first-child {
+    color: #859900;
+    padding-left: 5%;
+}
+
+table th {
+    color: #dc322f;
+    font-size: 35px;
+}
+
+.tac {
+    text-align: center;
+    color: #b58900 !important;
+    font-size: 25px;
+    padding-top: 5px;
+} 
+
+.mononoki-fnt {
+   font-family: 'mononokiRegular';
+   font-weight: normal;
+   font-style: normal; 
+}
+
+.verticalLine {
+  border-left: thin solid #586e75;
+  top: 0;
+  left: 1280px;
+  position: fixed;
+  height: 100%;
+}
+
+.cyan {
+    color: #2aa198;
+}
+
+.blue {
+    color: #268bd2;
+}
+
+.experience {
+    margin-left: 5%;
+    max-width: 80ch;
+}
