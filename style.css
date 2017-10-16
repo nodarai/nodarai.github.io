@@ -11,6 +11,10 @@ html, body {
     min-height: 100%;
 }
 
+hr {
+    margin: 0;
+}
+
 a {
     color: #586e75;
     text-decoration: none;
