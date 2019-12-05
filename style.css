@@ -50,6 +50,8 @@ footer {
     width: 100%;
     text-align: center;
     opacity: 0.5;
+    bottom: 0;
+    position: fixed;
 }
 
 .tac {
