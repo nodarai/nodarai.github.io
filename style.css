@@ -93,3 +93,10 @@ footer {
 .align-right a {
     margin-right: 10px;
 }
+
+.unstiled-list {
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 20px;
+}
