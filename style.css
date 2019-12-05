@@ -45,6 +45,13 @@ table th {
     font-size: 35px;
 }
 
+footer {
+    box-shadow: 0 0px 7px grey;
+    width: 100%;
+    text-align: center;
+    opacity: 0.5;
+}
+
 .tac {
     text-align: center;
     color: #b58900 !important;
